@@ -1,0 +1,10 @@
+.statsContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.statsItem {
+    margin-bottom: 10px;
+}
